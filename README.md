@@ -12,20 +12,20 @@ and technical project environments.
 
 ## Selected Engineering Work
 
-### OpsForge
+### [OpsForge](https://github.com/fuhrdan/OpsForge)
 .NET 8 incident-response and NOC platform with distributed agents,
 incident correlation, RBAC, audit logging, reliability analytics,
 maintenance windows and constrained remediation.
 
-### Pipeline Guard
+### [Pipeline Guard](https://github.com/fuhrdan/Pipeline-Guard)
 DevSecOps repository auditing with actionable security findings,
 false-positive management and resilient advisory handling.
 
-### TrustFix
+### [TrustFix](https://github.com/fuhrdan/trustfix.ai)
 Laravel/MySQL service platform with role-based workflows,
 contractor verification, properties, jobs, documents and administration.
 
-### GraphiteShield Lab
+### [GraphiteShield Lab](https://github.com/fuhrdan/GraphiteShield_lab)
 Java defensive-security research workbench for safely simulating,
 detecting and investigating mobile threat behaviors.
 
