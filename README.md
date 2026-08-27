@@ -1,14 +1,10 @@
 # Dan Fuhr
 
-**IT Operations & Systems Engineering · Software Delivery · Denver, Colorado**
+**Business Systems · Software Engineering · APIs & Integrations · Denver, Colorado**
 
-I build and operate practical technology systems — infrastructure,
-business applications, integrations, automation, security tooling,
-and production software.
+I build and support practical business and technology systems spanning APIs, integrations, relational data, enterprise applications, automation, security tooling, and production software.
 
-My background spans IT operations, systems administration, network
-engineering, application development, enterprise business systems,
-and technical project environments.
+My background bridges software development and IT operations with enterprise business systems and financial processes, giving me experience translating real business requirements into reliable technical solutions.
 
 ## Selected Engineering Work
 
